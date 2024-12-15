@@ -1,4 +1,4 @@
-# attendance-management-system
+# Attendance-Management-System
 # Face Recognition Attendance System
 
 An advanced, real-time face recognition-based attendance tracker built using Python. This project detects and identifies faces through a webcam or video feed and logs attendance automatically, providing a seamless and efficient solution to replace traditional manual methods.
