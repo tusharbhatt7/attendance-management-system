@@ -64,10 +64,3 @@ Future Improvements
 - Enhance accuracy with additional training data.
 - Implement cloud storage for attendance logs.
 
-Acknowledgments
-This project was inspired by tutorials on face recognition and attendance systems, and it has been customized and enhanced to meet practical use cases.
-
----
-
-Feel free to use or modify this project, and don't forget to star the repository if you find it helpful!
-
